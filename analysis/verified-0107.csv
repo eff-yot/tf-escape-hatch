@@ -1,0 +1,27 @@
+Module,Provisioner,Category,Command Injection via Unsanitized Input,Execution of Unverified Programs,Excessive Permissions,Unsanitized Path Traversal,File Content Injection,Arbitrary Resource Interaction,Insecure Handling of Secrets,Insecure Communication,Non-Idempotent Execution,Inconsistent Configuration
+oracle-terraform-modules-oke-oci-5.1.8,remote-exec,high,1,1,,1,,1,1,,1,1
+oracle-terraform-modules-olcne-oci-0.1.0,remote-exec,medium,1,1,,1,,1,1,1,,1
+aws-ia-magento-adobe-0.0.1,remote-exec,low,1,1,,,,,1,,1,1
+GoogleCloudPlatform-managed-instance-group-google-1.1.15,local-exec,high,1,,,,,1,,,,
+terraform-google-modules-cloud-datastore-google-2.0.1,local-exec,high,1,1,,,,1,,,,
+terraform-google-modules-forseti-google-5.2.2,local-exec,high,1,,,,,,1,,,
+terraform-google-modules-org-policy-google-5.3.0,local-exec,high,,,,,,,,,,
+aztfmod-caf-vm-azurerm-0.1.0,local-exec,medium,1,,,,,1,,,,1
+oracle-terraform-modules-olcne-oci-0.1.0,local-exec,medium,1,1,,1,,,1,1,1,1
+aztfmod-caf-azurerm-5.7.12,local-exec,high,1,0,,1,,1,1,1,,1
+aws-ia-cloud_workspace-hashicorp-0.0.2,local-exec,medium,1,,,1,1,,,,,
+aws-ia-ecs-fargate-aws-0.0.2,local-exec,medium,1,,,1,1,,,,,
+aws-ia-codebuild-aws-0.0.5,local-exec,medium,1,,,1,1,,,,,
+aws-ia-ecs-cluster-aws-0.0.1,local-exec,medium,1,,,1,1,,,,,
+aws-ia-globalnetwork-aws-0.0.1,local-exec,medium,,,,,1,,,,,
+aws-ia-magento-adobe-0.0.1,local-exec,low,1,,,1,1,,,,,
+aws-ia-cloud-elastic-1.0.1,local-exec,low,1,,,,,,1,,1,1
+aws-ia-polygon-technology-edge-aws-0.0.4,local-exec,medium,1,,,,1,,,,,
+aws-ia-rds-aurora-aws-0.0.7,local-exec,high,1,,,1,1,,,,,
+terraform-google-modules-endpoints-dns-google-3.0.1,data-external,high,,1,,,,1,,,,
+oracle-terraform-modules-olcne-oci-0.1.0,data-external,medium,1,1,,1,,,,1,,
+aztfmod-caf-azurerm-5.7.12,data-external,high,1,,,,,1,1,,,
+databricks-mlops-azure-infrastructure-with-sp-creation-databricks-0.0.3,data-external,low,,1,,,,,,,,
+databricks-mlops-azure-infrastructure-with-sp-linking-databricks-0.0.3,data-external,low,,1,,,,,,,,
+databricks-mlops-azure-project-with-sp-creation-databricks-0.0.3,data-external,medium,,1,,,,,,,,
+databricks-mlops-azure-project-with-sp-linking-databricks-0.0.3,data-external,low,,1,,,,,,,,
